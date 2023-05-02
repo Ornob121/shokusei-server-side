@@ -1,0 +1,118 @@
+[
+    {
+      "id": 1,
+      "name": "Takashi Yamamoto",
+      "picture": "https://example.com/takashi_yamamoto.jpg",
+      "bio": "Takashi Yamamoto is a renowned Japanese chef with over 20 years of experience in the culinary industry. He has trained in some of the most prestigious restaurants in Japan, honing his skills in traditional Japanese cuisine.",
+      "years_of_experience": 12,
+      "num_of_recipes": 8,
+      "like": 7887,
+      "recipes": [
+        "Sushi Rolls",
+        "Tempura",
+        "Ramen",
+        "Miso Soup",
+        "Okonomiyaki",
+        "Yakitori",
+        "Tonkatsu",
+        "Soba Noodles"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Yui Hashimoto",
+      "picture": "https://example.com/yui_hashimoto.jpg",
+      "bio": "Yui Hashimoto is a rising star in the Japanese culinary world. With a passion for traditional Japanese cuisine and a modern approach to presentation, she has gained a loyal following of foodies.",
+      "years_of_experience": 6,
+      "num_of_recipes": 5,
+      "like": 5432,
+      "recipes": [
+        "Tonkotsu Ramen",
+        "Gyoza",
+        "Teriyaki Chicken",
+        "Miso Soup",
+        "Okonomiyaki"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kenta Nakamura",
+      "picture": "https://example.com/kenta_nakamura.jpg",
+      "bio": "Kenta Nakamura is a Japanese chef with a passion for fusion cuisine. He combines traditional Japanese ingredients and techniques with flavors from around the world to create unique and delicious dishes.",
+      "years_of_experience": 9,
+      "num_of_recipes": 7,
+      "like": 4319,
+      "recipes": [
+        "Spicy Tuna Roll",
+        "Karaage Chicken",
+        "Beef Teriyaki",
+        "Soba Noodle Salad",
+        "Miso Soup",
+        "California Roll",
+        "Green Tea Ice Cream"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Aiko Suzuki",
+      "picture": "https://example.com/aiko_suzuki.jpg",
+      "bio": "Aiko Suzuki is a Japanese chef known for her inventive and playful take on traditional Japanese cuisine. She has won numerous awards for her dishes, which often feature surprising combinations of flavors and textures.",
+      "years_of_experience": 15,
+      "num_of_recipes": 10,
+      "like": 9721,
+      "recipes": [
+        "Matcha Mochi",
+        "Pork Katsu",
+        "Tofu Salad",
+        "Soba Noodles",
+        "Sushi Rolls",
+        "Miso Soup",
+        "Okonomiyaki",
+        "Tonkatsu Ramen",
+        "Chicken Teriyaki",
+        "Yakitori"
+      ]
+    },
+    {    "id": 5,    "chef_name": "Makoto Tanaka",    "chef_picture": "https://example.com/chef/makoto_tanaka.jpg",    "short_bio": "Makoto Tanaka is a renowned Japanese chef who specializes in traditional Kansai-style dishes. He has been featured in numerous culinary magazines and television programs.",    "years_of_experience": 12,    "num_of_recipes": 8,    "like": 3000,    "recipes": ["Sukiyaki", "Okonomiyaki", "Takoyaki", "Katsu Don", "Tonkatsu", "Shabu-shabu", "Yakiniku", "Soba Noodles"]
+  },
+  {
+    "id": 6,
+    "chef_name": "Haruka Nakamura",
+    "chef_picture": "https://example.com/chef/haruka_nakamura.jpg",
+    "short_bio": "Haruka Nakamura is a skilled Japanese pastry chef known for her delicate and innovative dessert creations.",
+    "years_of_experience": 8,
+    "num_of_recipes": 5,
+    "like": 5500,
+    "recipes": ["Matcha Mousse Cake", "Sakura Chiffon Cake", "Mochi Ice Cream", "Dorayaki", "Japanese Cheesecake"]
+  },
+  {
+    "id": 7,
+    "chef_name": "Ryota Fujimoto",
+    "chef_picture": "https://example.com/chef/ryota_fujimoto.jpg",
+    "short_bio": "Ryota Fujimoto is a talented Japanese chef specializing in traditional izakaya-style dishes. He is also an expert in sake pairing.",
+    "years_of_experience": 9,
+    "num_of_recipes": 6,
+    "like": 8000,
+    "recipes": ["Yakitori", "Takoyaki", "Gyoza", "Karaage", "Edamame", "Shishamo"]
+  },
+  {
+    "id": 8,
+    "chef_name": "Naoko Sato",
+    "chef_picture": "https://example.com/chef/naoko_sato.jpg",
+    "short_bio": "Naoko Sato is a highly skilled Japanese chef with a passion for using seasonal ingredients in her dishes. She is known for her inventive and visually stunning presentations.",
+    "years_of_experience": 11,
+    "num_of_recipes": 4,
+    "like": 2000,
+    "recipes": ["Chirashi Sushi", "Katsu Curry", "Nikujaga", "Oyakodon"]
+  },
+  {
+    "id": 9,
+    "chef_name": "Toshiro Nakamura",
+    "chef_picture": "https://example.com/chef/toshiro_nakamura.jpg",
+    "short_bio": "Toshiro Nakamura is a master of washoku cuisine, with a focus on creating harmonious and balanced flavors in his dishes. He has won numerous awards for his culinary creations.",
+    "years_of_experience": 15,
+    "num_of_recipes": 7,
+    "like": 7000,
+    "recipes": ["Saba Misoni", "Yakizakana", "Nimono", "Chawanmushi", "Tsukemono", "Oden", "Tonjiru"]
+  }
+]
