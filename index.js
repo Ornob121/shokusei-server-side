@@ -11,6 +11,13 @@ app.get("/chefs", (req, res) => {
   res.send(chefs);
 });
 
+app.get("/chefs/:id", (req, res) => {
+  const id = req.params.id;
+  console.log(typeof id);
+  const chef = chefs.find((chef) => chef.id === parseInt(id));
+  res.send(chef);
+});
+
 app.listen(port, () => {
   console.log(`This server is running on port ${port}`);
 });
