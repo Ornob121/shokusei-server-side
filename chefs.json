@@ -2,27 +2,157 @@
     {
       "id": 1,
       "name": "Takashi Yamamoto",
-      "picture": "data:image/jpeg;base64,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",
-      "bio": "Takashi Yamamoto is a renowned Japanese chef with over 20 years of experience in the culinary industry. He has trained in some of the most prestigious restaurants in Japan, honing his skills in traditional Japanese cuisine.",
+      "picture": "https://www.pngkit.com/png/detail/30-300232_japan-chef-png.png",
+      "bio": "Takashi Yamamoto is a well-known Japanese chef with more than 20 years of experience in the culinary industry. He has trained in some of the most prestigious restaurants in Japan, perfecting his skills in traditional Japanese cuisine. With over a decade of experience under his belt, Takashi has honed his craft and created a unique style that combines tradition with modern techniques. He has become a master of sushi rolls, tempura, ramen, miso soup, okonomiyaki, yakitori, tonkatsu, and soba noodles. He has amassed a following of nearly 8000 people who admire his delicious recipes and exceptional culinary skills.",
       "years_of_experience": 12,
       "num_of_recipes": 8,
       "like": 7887,
-      "recipes": [
-        "Sushi Rolls",
-        "Tempura",
-        "Ramen",
-        "Miso Soup",
-        "Okonomiyaki",
-        "Yakitori",
-        "Tonkatsu",
-        "Soba Noodles"
-      ]
+      "recipes": [  {    "name": "Sushi Rolls",    "ingredients": [      "Sushi rice",      "Nori sheets",      "Sashimi-grade fish (tuna, salmon, etc.)",      "Vegetables (cucumber, avocado, carrot, etc.)",      "Soy sauce",      "Wasabi",      "Pickled ginger"    ],
+      "cookingMethod": "1. Cook the sushi rice and let it cool. 2. Place a nori sheet on a sushi mat. 3. Spread a layer of rice over the nori, leaving a 1-inch border at the top. 4. Add the filling (fish and/or vegetables) to the center of the rice. 5. Roll the sushi tightly using the sushi mat. 6. Cut the sushi roll into bite-size pieces. 7. Serve with soy sauce, wasabi, and pickled ginger.",
+      "rating": 4.5
     },
+    {
+      "name": "Tempura",
+      "ingredients": [
+        "Shrimp or vegetables (sweet potato, broccoli, onion, etc.)",
+        "Flour",
+        "Cornstarch",
+        "Egg",
+        "Cold water",
+        "Ice cubes",
+        "Soy sauce",
+        "Daikon radish",
+        "Grated ginger"
+      ],
+      "cookingMethod": "1. Make the batter by mixing flour, cornstarch, egg, cold water, and ice cubes. 2. Heat the oil in a deep frying pan. 3. Dip the shrimp or vegetables into the batter. 4. Fry the tempura in the hot oil until golden brown. 5. Serve with soy sauce, grated daikon radish, and grated ginger.",
+      "rating": 4.3
+    },
+    {
+      "name": "Miso Soup",
+      "ingredients": [
+        "Dashi stock",
+        "Miso paste",
+        "Tofu",
+        "Scallions",
+        "Seaweed"
+      ],
+      "cookingMethod": "1. Heat the dashi stock in a pot. 2. Add miso paste and stir until it dissolves. 3. Add tofu and seaweed. 4. Cook for a few minutes until the tofu is heated through. 5. Garnish with sliced scallions. 6. Serve hot.",
+      "rating": 4.8
+    },
+    {
+      "name": "Gyoza",
+      "ingredients": [
+        "Ground pork",
+        "Cabbage",
+        "Garlic",
+        "Ginger",
+        "Green onion",
+        "Soy sauce",
+        "Sesame oil",
+        "Gyoza wrappers"
+      ],
+      "cookingMethod": "1. Mix the ground pork, cabbage, garlic, ginger, green onion, soy sauce, and sesame oil in a bowl. 2. Place a spoonful of the mixture onto a gyoza wrapper. 3. Wet the edges of the wrapper with water. 4. Fold the wrapper in half and pleat the edges together. 5. Heat the oil in a frying pan. 6. Add the gyoza and cook until the bottom is browned. 7. Add water to the pan and cover to steam the gyoza. 8. Cook until the water has evaporated. 9. Serve with soy sauce and/or vinegar."
+    },
+    {
+        "name": "Chicken Teriyaki",
+        "ingredients": [
+          "1 lb chicken thighs, boneless and skinless",
+          "1/2 cup soy sauce",
+          "1/2 cup water",
+          "1/4 cup mirin",
+          "2 tbsp sugar",
+          "1 tbsp vegetable oil",
+          "1 clove garlic, minced",
+          "1 tsp ginger, minced"
+        ],
+        "cookingMethod": [
+          "In a bowl, mix soy sauce, water, mirin and sugar until sugar is dissolved.",
+          "Heat oil in a large skillet over medium heat. Add chicken and cook until browned, about 5 minutes per side.",
+          "Add garlic and ginger to the skillet and cook until fragrant, about 1 minute.",
+          "Pour the sauce over the chicken and bring to a boil. Reduce heat to low and simmer until sauce thickens and chicken is cooked through, about 10-15 minutes.",
+          "Serve hot with steamed rice and vegetables."
+        ],
+        "rating": 4.5
+      },
+      {
+        "name": "Tonkatsu",
+        "ingredients": [
+          "4 boneless pork chops",
+          "1/2 cup all-purpose flour",
+          "2 eggs, beaten",
+          "1 cup panko breadcrumbs",
+          "1/2 tsp salt",
+          "1/4 tsp black pepper",
+          "1/4 cup vegetable oil"
+        ],
+        "cookingMethod": [
+          "Preheat the oven to 375°F (190°C).",
+          "Season pork chops with salt and pepper.",
+          "Dredge each chop in flour, dip in beaten eggs, and coat in panko breadcrumbs.",
+          "Heat oil in a large skillet over medium-high heat. Add pork chops and cook until browned, about 2-3 minutes per side.",
+          "Transfer the pork chops to a baking sheet and bake for 15-20 minutes, until fully cooked.",
+          "Serve hot with tonkatsu sauce, shredded cabbage, and steamed rice."
+        ],
+        "rating": 4.3
+      },
+      {
+        "name": "Soba Noodle Salad",
+        "ingredients": [
+          "8 oz soba noodles",
+          "1/2 cup shredded carrots",
+          "1/2 cup sliced cucumber",
+          "1/2 cup sliced red bell pepper",
+          "1/2 cup sliced scallions",
+          "1/4 cup rice vinegar",
+          "2 tbsp soy sauce",
+          "1 tbsp sesame oil",
+          "1 tbsp honey",
+          "1 clove garlic, minced",
+          "1 tsp grated ginger",
+          "1 tbsp toasted sesame seeds"
+        ],
+        "cookingMethod": [
+          "Cook soba noodles according to package directions. Drain and rinse with cold water.",
+          "In a large bowl, mix together carrots, cucumber, red bell pepper, and scallions.",
+          "In a separate bowl, whisk together rice vinegar, soy sauce, sesame oil, honey, garlic, and ginger.",
+          "Toss soba noodles with the vegetables and dressing.",
+          "Garnish with toasted sesame seeds and serve chilled."
+        ],
+        "rating": 4.7
+      },
+      {
+        "name": "Takoyaki",
+        "ingredients": [
+          "1 cup all-purpose flour",
+          "2 teaspoons baking powder",
+          "1/4 teaspoon salt",
+          "1 cup dashi stock",
+          "1 large egg, beaten",
+          "1/2 cup finely chopped cooked octopus",
+          "2 green onions, thinly sliced",
+          "1 tablespoon vegetable oil",
+          "Toppings: Takoyaki sauce, mayonnaise, dried bonito flakes, aonori seaweed"
+        ],
+        "cookingMethod": [
+          "In a large bowl, whisk together the flour, baking powder, and salt.",
+          "Add the dashi stock and egg and whisk until well combined.",
+          "Stir in the chopped octopus and green onions.",
+          "Heat a takoyaki pan over medium heat and brush each well with vegetable oil.",
+          "Spoon the batter into the wells until they are nearly full.",
+          "Cook for 2-3 minutes, or until the bottoms are golden brown.",
+          "Using a skewer or chopstick, flip each takoyaki over and cook for an additional 2-3 minutes, or until the other side is golden brown.",
+          "Remove the takoyaki from the pan and top with takoyaki sauce, mayonnaise, dried bonito flakes, and aonori seaweed."
+        ],
+        "rating": 4.8
+      }
+    ]
+    },
+
     {
       "id": 2,
       "name": "Yui Hashimoto",
-      "picture": "data:image/jpeg;base64,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",
-      "bio": "Yui Hashimoto is a rising star in the Japanese culinary world. With a passion for traditional Japanese cuisine and a modern approach to presentation, she has gained a loyal following of foodies.",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0lLmvBSFmdk-Wj9RMQ4ZJqV--ynQj89fz4Q&usqp=CAU",
+      "bio": "Takashi Yamamoto is a well-known Japanese chef with more than 20 years of experience in the culinary industry. He has trained in some of the most prestigious restaurants in Japan, perfecting his skills in traditional Japanese cuisine. With over a decade of experience under his belt, Takashi has honed his craft and created a unique style that combines tradition with modern techniques. He has become a master of sushi rolls, tempura, ramen, miso soup, okonomiyaki, yakitori, tonkatsu, and soba noodles. He has amassed a following of nearly 8000 people who admire his delicious recipes and exceptional culinary skills.",
       "years_of_experience": 6,
       "num_of_recipes": 5,
       "like": 5432,
@@ -37,8 +167,8 @@
     {
       "id": 3,
       "name": "Kenta Nakamura",
-      "picture": "data:image/jpeg;base64,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",
-      "bio": "Kenta Nakamura is a Japanese chef with a passion for fusion cuisine. He combines traditional Japanese ingredients and techniques with flavors from around the world to create unique and delicious dishes.",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2g2yTxhpg0DDm4hmJd8QZRBRcCUIe4aN97w&usqp=CAU",
+      "bio": "Kenta Nakamura is a Japanese chef with a passion for fusion cuisine. He combines traditional Japanese ingredients and techniques with flavors from around the world to create unique and delicious dishes. Kenta has nine years of experience in the culinary industry and has mastered spicy tuna rolls, karaage chicken, beef teriyaki, soba noodle salad, miso soup, California roll, and green tea ice cream. His innovative approach to Japanese cuisine has earned him more than 4000 likes on social media.",
       "years_of_experience": 9,
       "num_of_recipes": 7,
       "like": 4319,
@@ -56,9 +186,9 @@
       "id": 4,
       "name": "Aiko Suzuki",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVO6SOFPY2mHxntAvwcj2TomYmk4tR9xR4Aw&usqp=CAU",
-      "bio": "Aiko Suzuki is a Japanese chef known for her inventive and playful take on traditional Japanese cuisine. She has won numerous awards for her dishes, which often feature surprising combinations of flavors and textures.",
+      "bio": "Aiko Suzuki is a Japanese chef known for her inventive and playful take on traditional Japanese cuisine. With 15 years of experience in the industry, Aiko has won numerous awards for her dishes, which often feature surprising combinations of flavors and textures. Her mastery of matcha mochi, pork katsu, tofu salad, soba noodles, sushi rolls, miso soup, okonomiyaki, tonkatsu ramen, chicken teriyaki, and yakitori has earned her over 9000 likes on social media.",
       "years_of_experience": 15,
-      "num_of_recipes": 10,
+      "num_of_recipes": 6,
       "like": 9721,
       "recipes": [
         "Matcha Mochi",
@@ -73,13 +203,13 @@
         "Yakitori"
       ]
     },
-    {    "id": 5,    "chef_name": "Makoto Tanaka",    "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoKMErbkIcqS6ygQUyyH26y1G1BJLZf1eYOw&usqp=CAU",    "short_bio": "Makoto Tanaka is a renowned Japanese chef who specializes in traditional Kansai-style dishes. He has been featured in numerous culinary magazines and television programs.",    "years_of_experience": 12,    "num_of_recipes": 8,    "like": 3000,    "recipes": ["Sukiyaki", "Okonomiyaki", "Takoyaki", "Katsu Don", "Tonkatsu", "Shabu-shabu", "Yakiniku", "Soba Noodles"]
+    {    "id": 5,    "name": "Makoto Tanaka",    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAdC2A6TfwfMwudiJwrw6AkUyOHd5FLNGTLw&usqp=CAU",    "bio": "Makoto Tanaka is a renowned Japanese chef who specializes in traditional Kansai-style dishes. With 12 years of experience, he has been featured in numerous culinary magazines and television programs. Makoto has perfected sukiyaki, okonomiyaki, takoyaki, katsu don, tonkatsu, shabu-shabu, yakiniku, and soba noodles. He has earned the admiration of more than 3000 people who appreciate his exceptional culinary skills.",    "years_of_experience": 12,    "num_of_recipes": 8,    "like": 3000,    "recipes": ["Sukiyaki", "Okonomiyaki", "Takoyaki", "Katsu Don", "Tonkatsu", "Shabu-shabu", "Yakiniku", "Soba Noodles"]
   },
   {
     "id": 6,
-    "chef_name": "Haruka Nakamura",
-    "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpo2BKlIPJtajId3fQ-I60ytPwRawwfk70MQ&usqp=CAU",
-    "short_bio": "Haruka Nakamura is a skilled Japanese pastry chef known for her delicate and innovative dessert creations.",
+    "name": "Haruka Nakamura",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpo2BKlIPJtajId3fQ-I60ytPwRawwfk70MQ&usqp=CAU",
+    "bio": "Haruka Nakamura is a skilled Japanese pastry chef known for her delicate and innovative dessert creations. With eight years of experience, Haruka has perfected matcha mousse cake, sakura chiffon cake, mochi ice cream, dorayaki, and Japanese cheesecake. Her mastery of pastry has earned her over 5500 likes on social media.",
     "years_of_experience": 8,
     "num_of_recipes": 5,
     "like": 5500,
@@ -87,9 +217,9 @@
   },
   {
     "id": 7,
-    "chef_name": "Ryota Fujimoto",
-    "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojhERgRKwJo4WJWL9yMN9tOOC99OoxBo52A&usqp=CAU",
-    "short_bio": "Ryota Fujimoto is a talented Japanese chef specializing in traditional izakaya-style dishes. He is also an expert in sake pairing.",
+    "name": "Ryota Fujimoto",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojhERgRKwJo4WJWL9yMN9tOOC99OoxBo52A&usqp=CAU",
+    "bio": "Ryota Fujimoto is a young Japanese chef who specializes in sushi. With five years of experience, Ryota has perfected his skills in creating delicious sushi dishes that are both traditional and modern. He has created a loyal following of foodies who appreciate his creative and innovative approach to sushi-making.",
     "years_of_experience": 9,
     "num_of_recipes": 6,
     "like": 8000,
@@ -97,9 +227,9 @@
   },
   {
     "id": 8,
-    "chef_name": "Naoko Sato",
-    "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa6oEStYm-TtktckfEHMhhxs8uqAKFadfWZQ&usqp=CAU",
-    "short_bio": "Naoko Sato is a highly skilled Japanese chef with a passion for using seasonal ingredients in her dishes. She is known for her inventive and visually stunning presentations.",
+    "name": "Naoko Sato",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa6oEStYm-TtktckfEHMhhxs8uqAKFadfWZQ&usqp=CAU",
+    "bio": "Naoko Sato is a highly skilled Japanese chef with 11 years of experience. Her passion lies in using seasonal ingredients to create inventive and visually stunning dishes. With four popular recipes under her belt, including Chirashi Sushi and Katsu Curry, Naoko has gained a reputation for her creative and delicious cuisine. Her bio showcases her dedication to her craft and her desire to bring the freshest ingredients to the table.",
     "years_of_experience": 11,
     "num_of_recipes": 4,
     "like": 2000,
@@ -107,9 +237,9 @@
   },
   {
     "id": 9,
-    "chef_name": "Toshiro Nakamura",
-    "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3vgSZOGeysJ8ocDhrKUCB8EC_42430ZYQHJ4WUOFgo7WBUaG0sDl2TOiWN7gfLvvWhxs&usqp=CAU",
-    "short_bio": "Toshiro Nakamura is a master of washoku cuisine, with a focus on creating harmonious and balanced flavors in his dishes. He has won numerous awards for his culinary creations.",
+    "name": "Toshiro Nakamura",
+    "picture": "https://media.timeout.com/images/105977061/image.jpg",
+    "bio": "Toshiro Nakamura is a master of washoku cuisine, boasting 15 years of experience in the culinary world. He has won multiple awards for his dishes, which focus on creating harmonious and balanced flavors. With seven popular recipes to his name, including Saba Misoni and Tsukemono, Toshiro has become a respected figure in the culinary community. His bio highlights his passion for creating delicious and thoughtful dishes that showcase the best of Japanese cuisine.",
     "years_of_experience": 15,
     "num_of_recipes": 7,
     "like": 7000,
