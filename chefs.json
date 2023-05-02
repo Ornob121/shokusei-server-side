@@ -34,7 +34,9 @@
         "Miso paste",
         "Tofu",
         "Scallions",
-        "Seaweed"
+        "Seaweed",
+        "1/4 cup miso paste"
+
       ],
       "cookingMethod": "1. Heat the dashi stock in a pot. 2. Add miso paste and stir until it dissolves. 3. Add tofu and seaweed. 4. Cook for a few minutes until the tofu is heated through. 5. Garnish with sliced scallions. 6. Serve hot.",
       "rating": 4.8
@@ -51,7 +53,8 @@
         "Sesame oil",
         "Gyoza wrappers"
       ],
-      "cookingMethod": "1. Mix the ground pork, cabbage, garlic, ginger, green onion, soy sauce, and sesame oil in a bowl. 2. Place a spoonful of the mixture onto a gyoza wrapper. 3. Wet the edges of the wrapper with water. 4. Fold the wrapper in half and pleat the edges together. 5. Heat the oil in a frying pan. 6. Add the gyoza and cook until the bottom is browned. 7. Add water to the pan and cover to steam the gyoza. 8. Cook until the water has evaporated. 9. Serve with soy sauce and/or vinegar."
+      "cookingMethod": "1. Mix the ground pork, cabbage, garlic, ginger, green onion, soy sauce, and sesame oil in a bowl. 2. Place a spoonful of the mixture onto a gyoza wrapper. 3. Wet the edges of the wrapper with water. 4. Fold the wrapper in half and pleat the edges together. 5. Heat the oil in a frying pan. 6. Add the gyoza and cook until the bottom is browned. 7. Add water to the pan and cover to steam the gyoza. 8. Cook until the water has evaporated. 9. Serve with soy sauce and/or vinegar.", 
+      "rating": 4.2
     },
     {
         "name": "Chicken Teriyaki",
@@ -157,11 +160,98 @@
       "num_of_recipes": 5,
       "like": 5432,
       "recipes": [
-        "Tonkotsu Ramen",
-        "Gyoza",
-        "Teriyaki Chicken",
-        "Miso Soup",
-        "Okonomiyaki"
+  {
+    "name": "Okonomiyaki",
+    "ingredients": [
+      "1/2 cup all-purpose flour",
+      "1/4 teaspoon salt",
+      "1/4 teaspoon baking powder",
+      "1/2 cup water",
+      "2 large eggs",
+      "1/2 head green cabbage, thinly sliced",
+      "3 scallions, thinly sliced",
+      "1/2 cup chopped cooked shrimp",
+      "1/2 cup shredded cooked pork",
+      "1/2 cup bean sprouts",
+      "1/4 cup mayonnaise",
+      "1/4 cup okonomiyaki sauce",
+      "1/4 cup bonito flakes",
+      "1/4 cup chopped fresh parsley"
+    ],
+    "cookingMethod": [
+      "In a large bowl, whisk together the flour, salt, and baking powder.",
+      "Add the water and eggs and whisk until smooth.",
+      "Fold in the cabbage, scallions, shrimp, pork, and bean sprouts.",
+      "Heat a large nonstick skillet over medium heat.",
+      "Pour in the batter to make 4 large pancakes.",
+      "Cook for 5-6 minutes on each side or until golden brown and cooked through.",
+      "Serve hot, drizzled with mayonnaise and okonomiyaki sauce and topped with bonito flakes and parsley."
+    ],
+    "rating": 4.8
+  },
+  {
+    "name": "Yakisoba",
+    "ingredients": [
+      "8 oz soba noodles",
+      "1/4 cup vegetable oil",
+      "1 large onion, sliced",
+      "1 red bell pepper, sliced",
+      "1 yellow bell pepper, sliced",
+      "2 cups sliced cabbage",
+      "2 cups sliced mushrooms",
+      "1 cup sliced carrots",
+      "1 cup chopped scallions",
+      "1/4 cup soy sauce",
+      "2 tablespoons oyster sauce",
+      "1 tablespoon sesame oil",
+      "1 teaspoon sugar"
+    ],
+    "cookingMethod": [
+      "Cook the soba noodles according to package instructions.",
+      "Heat the vegetable oil in a large skillet over high heat.",
+      "Add the onion, bell peppers, cabbage, mushrooms, and carrots.",
+      "Stir-fry for 5-7 minutes or until the vegetables are tender-crisp.",
+      "Add the scallions, soy sauce, oyster sauce, sesame oil, and sugar.",
+      "Stir-fry for another 2-3 minutes or until the sauce has thickened.",
+      "Add the cooked soba noodles and toss to combine.",
+      "Serve hot."
+    ],
+    "rating": 4.5
+  },
+  {
+    "name": "Miso Soup",
+    "ingredients": [
+      "4 cups water",
+      "1/4 cup miso paste",
+      "1/2 cup chopped scallions",
+      "1/2 cup cubed tofu",
+      "1/4 cup wakame seaweed",
+      "1 teaspoon soy sauce",
+      "1 teaspoon sesame oil",
+      "1 teaspoon rice vinegar"
+    ],
+    "cookingMethod": [
+      "Bring the water to a boil in a medium saucepan.",
+      "Whisk in the miso paste until smooth.",
+      "Add the scallions, tofu, and wakame seaweed.",
+      "Reduce the heat to low and simmer for 5-7 minutes.",
+      "Stir in the soy sauce, sesame oil, and rice vinegar.",
+      "Serve hot."
+    ],
+    "rating": 4.2
+  },
+  {
+    "name": "Tofu Teriyaki",
+    "ingredients": ["1 block of firm tofu", "1/4 cup soy sauce", "2 tbsp honey", "2 tbsp rice vinegar", "1 tbsp cornstarch", "1 clove garlic, minced", "1 tsp grated ginger", "2 green onions, sliced", "2 tbsp vegetable oil"],
+    "cookingMethod": ["Drain the tofu and cut it into small cubes.", "In a small bowl, whisk together the soy sauce, honey, rice vinegar, cornstarch, garlic, and ginger.", "In a large skillet, heat the vegetable oil over medium-high heat.", "Add the tofu and cook until golden brown, about 5-7 minutes.", "Add the sauce and stir until the tofu is coated and the sauce has thickened, about 1-2 minutes.", "Garnish with sliced green onions and serve with rice."],
+    "rating": 4.5
+  },
+  {
+    "name": "Okonomiyaki",
+    "ingredients": ["1 cup flour", "1/2 tsp baking powder", "1/2 tsp salt", "2/3 cup water", "4 cups chopped cabbage", "1/2 cup chopped green onions", "1/4 cup chopped pickled ginger", "1/4 cup bonito flakes", "1/4 cup mayonnaise", "1/4 cup okonomiyaki sauce", "2 tbsp vegetable oil", "4 eggs"],
+    "cookingMethod": ["In a large bowl, whisk together the flour, baking powder, salt, and water.", "Add the cabbage, green onions, pickled ginger, bonito flakes, mayonnaise, and okonomiyaki sauce to the bowl and mix until combined.", "Heat the vegetable oil in a large skillet over medium-high heat.", "Add the batter to the skillet and spread it out into a thin, even layer.", "Crack an egg on top of the batter and cook until the bottom is golden brown, about 5-7 minutes.", "Flip the okonomiyaki over and cook for another 5-7 minutes, until the egg is cooked through.", "Repeat with the remaining batter and eggs.", "Garnish with additional bonito flakes and green onions, if desired, and serve with extra okonomiyaki sauce."],
+    "rating": 4.8
+  }
       ]
     },
     {
@@ -170,16 +260,103 @@
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2g2yTxhpg0DDm4hmJd8QZRBRcCUIe4aN97w&usqp=CAU",
       "bio": "Kenta Nakamura is a Japanese chef with a passion for fusion cuisine. He combines traditional Japanese ingredients and techniques with flavors from around the world to create unique and delicious dishes. Kenta has nine years of experience in the culinary industry and has mastered spicy tuna rolls, karaage chicken, beef teriyaki, soba noodle salad, miso soup, California roll, and green tea ice cream. His innovative approach to Japanese cuisine has earned him more than 4000 likes on social media.",
       "years_of_experience": 9,
-      "num_of_recipes": 7,
+      "num_of_recipes": 4,
       "like": 4319,
       "recipes": [
-        "Spicy Tuna Roll",
-        "Karaage Chicken",
-        "Beef Teriyaki",
-        "Soba Noodle Salad",
-        "Miso Soup",
-        "California Roll",
-        "Green Tea Ice Cream"
+        {
+            "name": "Takoyaki",
+            "ingredients": [
+              "2 cups all-purpose flour",
+              "2 teaspoons baking powder",
+              "1/2 teaspoon salt",
+              "2 cups water",
+              "1 tablespoon soy sauce",
+              "1 tablespoon bonito flakes",
+              "1/2 cup chopped cooked octopus",
+              "1/4 cup chopped green onions",
+              "1/4 cup pickled ginger",
+              "Vegetable oil for cooking",
+              "Aonori and katsuobushi for garnish"
+            ],
+            "cookingMethod": [
+              "Mix the flour, baking powder, and salt together in a large bowl.",
+              "Add the water, soy sauce, and bonito flakes to the bowl and whisk until smooth.",
+              "Add the octopus, green onions, and pickled ginger to the bowl and stir to combine.",
+              "Heat a takoyaki pan over medium heat and brush with vegetable oil.",
+              "Pour the batter into the pan, filling each mold about three-quarters full.",
+              "Cook for 2-3 minutes, then use a skewer or chopstick to flip the takoyaki over and cook for another 2-3 minutes until golden brown and crispy.",
+              "Remove the takoyaki from the pan and sprinkle with aonori and katsuobushi before serving."
+            ],
+            "rating": 4.5
+          },
+          {
+            "name": "Miso Soup",
+            "ingredients": [
+              "4 cups dashi (Japanese soup stock)",
+              "1/4 cup miso paste",
+              "1/2 block silken tofu, cut into small cubes",
+              "2 tablespoons chopped green onions",
+              "1/2 tsp salt",
+              "1/4 tsp black pepper",
+              "1/4 cup vegetable oil"
+            ],
+            "cookingMethod": [
+              "In a medium pot, heat the dashi over medium heat until it comes to a simmer.",
+              "Scoop out a ladleful of the hot dashi and place it in a small bowl. Add the miso paste to the bowl and whisk until smooth.",
+              "Pour the miso mixture back into the pot and stir to combine.",
+              "Add the cubed tofu to the pot and let simmer for a few minutes until heated through.",
+              "Ladle the soup into bowls and sprinkle with chopped green onions before serving."
+            ],
+            "rating": 4.2
+          },
+          {
+            "name": "Oyakodon",
+            "ingredients": [
+              "2 boneless chicken thighs",
+              "1 onion, sliced",
+              "2 eggs",
+              "1/4 cup dashi stock",
+              "2 tablespoons soy sauce",
+              "1 tablespoon mirin",
+              "1 tablespoon sugar",
+              "3 cups cooked Japanese rice",
+              "Green onions, chopped (for garnish)"
+            ],
+            "cookingMethod": [
+              "Cut the chicken thighs into bite-sized pieces.",
+              "In a medium-sized pan, add the sliced onions and the chicken pieces. Pour in the dashi stock, soy sauce, mirin, and sugar. Cook over medium heat until the chicken is cooked through and the onions are translucent, stirring occasionally.",
+              "Beat the eggs in a small bowl.",
+              "When the chicken is cooked through, pour the beaten eggs over the chicken and onions. Cover the pan and let cook until the eggs are set.",
+              "Serve the oyakodon over a bed of cooked Japanese rice, garnished with chopped green onions."
+            ],
+            "rating": 4.8
+          },
+          {
+            "name": "Karaage",
+            "ingredients": [
+              "1 lb boneless chicken thighs",
+              "1 inch ginger, grated",
+              "2 cloves garlic, minced",
+              "2 tablespoons soy sauce",
+              "1 tablespoon sake",
+              "1 tablespoon mirin",
+              "1/2 teaspoon salt",
+              "1/2 teaspoon black pepper",
+              "1/2 cup cornstarch",
+              "1/2 cup all-purpose flour",
+              "Vegetable oil (for frying)",
+              "Lemon wedges (for serving)"
+            ],
+            "cookingMethod": [
+              "Cut the chicken thighs into bite-sized pieces.",
+              "In a large bowl, mix together the grated ginger, minced garlic, soy sauce, sake, mirin, salt, and black pepper. Add the chicken pieces to the marinade, making sure each piece is coated evenly. Cover the bowl and refrigerate for at least 30 minutes.",
+              "In a separate bowl, mix together the cornstarch and flour.",
+              "Heat the vegetable oil in a deep fryer or a large pot over medium-high heat. Once the oil is hot, dredge the marinated chicken pieces in the flour mixture, shaking off any excess, and fry in batches until golden brown and cooked through, about 6-8 minutes per batch.",
+              "Drain the fried chicken on a wire rack or paper towels to remove any excess oil.",
+              "Serve the karaage hot with lemon wedges on the side."
+            ],
+            "rating": 3.2
+          }
       ]
     },
     {
@@ -188,22 +365,178 @@
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVO6SOFPY2mHxntAvwcj2TomYmk4tR9xR4Aw&usqp=CAU",
       "bio": "Aiko Suzuki is a Japanese chef known for her inventive and playful take on traditional Japanese cuisine. With 15 years of experience in the industry, Aiko has won numerous awards for her dishes, which often feature surprising combinations of flavors and textures. Her mastery of matcha mochi, pork katsu, tofu salad, soba noodles, sushi rolls, miso soup, okonomiyaki, tonkatsu ramen, chicken teriyaki, and yakitori has earned her over 9000 likes on social media.",
       "years_of_experience": 15,
-      "num_of_recipes": 6,
+      "num_of_recipes": 5,
       "like": 9721,
       "recipes": [
-        "Matcha Mochi",
-        "Pork Katsu",
-        "Tofu Salad",
-        "Soba Noodles",
-        "Sushi Rolls",
-        "Miso Soup",
-        "Okonomiyaki",
-        "Tonkatsu Ramen",
-        "Chicken Teriyaki",
-        "Yakitori"
+        {
+            "name": "Tonkatsu",
+            "ingredients": ["Pork Loin", "Panko Breadcrumbs", "Flour", "Egg", "Oil", "Salt", "Pepper", "Cabbage"],
+            "cookingMethod": "Start by pounding the pork loin with a meat tenderizer until it’s thin and even. Then season with salt and pepper, dip the pork in flour, beaten egg, and panko breadcrumbs in that order. Fry the pork cutlets in oil until they are crispy and golden brown. Serve with shredded cabbage and tonkatsu sauce.",
+            "rating": 4.5
+          },
+          {
+            "name": "Yakitori",
+            "ingredients": ["Chicken Thighs", "Soy Sauce", "Sake", "Mirin", "Green Onions", "Bamboo Skewers"],
+            "cookingMethod": "Start by cutting the chicken thighs into bite-sized pieces and skewering them onto bamboo sticks. Grill the chicken over medium-high heat, turning the skewers occasionally. While grilling, brush the chicken with a mixture of soy sauce, sake, and mirin. Once the chicken is cooked through and nicely charred, remove from the grill and garnish with chopped green onions.",
+            "rating": 4.2
+          },
+          {
+            "name": "Miso Soup",
+            "ingredients": ["Miso Paste", "Dashi Stock", "Tofu", "Green Onions", "Seaweed"],
+            "cookingMethod": "Start by heating dashi stock in a pot. Once the stock is hot, dissolve the miso paste in the dashi and bring to a simmer. Add cubed tofu and sliced green onions to the soup and cook for 1-2 minutes. Ladle the soup into bowls and sprinkle with crumbled seaweed.",
+            "rating": 4.7
+          },
+          {
+            "name": "Okonomiyaki",
+            "ingredients": ["Flour", "Egg", "Cabbage", "Bacon", "Tenkasu", "Mayonnaise", "Okonomiyaki Sauce", "Aonori", "Katsuobushi"],
+            "cookingMethod": "Start by mixing flour, egg, and water in a bowl to make the batter. Then add shredded cabbage, bacon, and tenkasu (tempura scraps) to the batter. Pour the batter onto a hot griddle and cook until the bottom is golden brown. Flip the okonomiyaki and cook the other side until it's crispy. Drizzle with mayonnaise and okonomiyaki sauce, then sprinkle with aonori and katsuobushi.",
+            "rating": 4.4
+          },
+          {
+            "name": "Tempura",
+            "ingredients": ["Shrimp", "Vegetables (Eggplant, Sweet Potato, Bell Pepper, etc.)", "Flour", "Cornstarch", "Ice Water", "Oil", "Salt", "Dipping Sauce (Soy Sauce, Mirin, Dashi, etc.)"],
+            "cookingMethod": "Start by heating oil in a deep fryer or pot. Then mix flour, cornstarch, and ice water in a bowl to make the batter. Dip shrimp and vegetables in the batter and fry until they are golden brown. Season with salt and serve with dipping sauce.",
+            "rating": 4.3
+          }
       ]
     },
-    {    "id": 5,    "name": "Makoto Tanaka",    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAdC2A6TfwfMwudiJwrw6AkUyOHd5FLNGTLw&usqp=CAU",    "bio": "Makoto Tanaka is a renowned Japanese chef who specializes in traditional Kansai-style dishes. With 12 years of experience, he has been featured in numerous culinary magazines and television programs. Makoto has perfected sukiyaki, okonomiyaki, takoyaki, katsu don, tonkatsu, shabu-shabu, yakiniku, and soba noodles. He has earned the admiration of more than 3000 people who appreciate his exceptional culinary skills.",    "years_of_experience": 12,    "num_of_recipes": 8,    "like": 3000,    "recipes": ["Sukiyaki", "Okonomiyaki", "Takoyaki", "Katsu Don", "Tonkatsu", "Shabu-shabu", "Yakiniku", "Soba Noodles"]
+    {    "id": 5,    "name": "Makoto Tanaka",    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAdC2A6TfwfMwudiJwrw6AkUyOHd5FLNGTLw&usqp=CAU",    "bio": "Makoto Tanaka is a renowned Japanese chef who specializes in traditional Kansai-style dishes. With 12 years of experience, he has been featured in numerous culinary magazines and television programs. Makoto has perfected sukiyaki, okonomiyaki, takoyaki, katsu don, tonkatsu, shabu-shabu, yakiniku, and soba noodles. He has earned the admiration of more than 3000 people who appreciate his exceptional culinary skills.",    "years_of_experience": 12,    "num_of_recipes": 7,    "like": 3000,    "recipes": [{
+        "name": "Katsu Curry",
+        "ingredients": [
+          "Chicken breast",
+          "Panko breadcrumbs",
+          "Onion",
+          "Carrot",
+          "Garlic",
+          "Ginger",
+          "Flour",
+          "Japanese curry powder",
+          "Soy sauce",
+          "Mirin",
+          "Rice",
+          "Water"
+        ],
+        "cookingMethod": ["1. Cook rice according to package instructions.\n2. Cut chicken breast into thin slices, then coat each slice in flour, beaten eggs, and panko breadcrumbs.\n3. In a pan, fry the chicken slices until golden brown on both sides.\n4. In a separate pan, sauté diced onion, carrot, garlic, and ginger until softened.\n5. Add Japanese curry powder, soy sauce, and mirin to the pan and stir.\n6. Add water to the pan and let the mixture simmer for 10-15 minutes.\n7. Serve the chicken katsu with the curry sauce on top of the rice."],
+        "rating": 4.5
+      },
+      {
+        "name": "Tempura",
+        "ingredients": [
+          "Shrimp",
+          "Fish",
+          "Sweet potato",
+          "Pumpkin",
+          "Broccoli",
+          "Eggplant",
+          "Flour",
+          "Cornstarch",
+          "Water",
+          "Vegetable oil",
+          "Soy sauce",
+          "Daikon radish",
+          "Grated ginger"
+        ],
+        "cookingMethod": ["1. Mix flour and cornstarch in a bowl, then add water to create a smooth batter.\n2. Cut shrimp, fish, sweet potato, pumpkin, broccoli, and eggplant into bite-sized pieces.\n3. Dip the vegetables and seafood in the batter, then fry in hot oil until golden brown.\n4. Serve tempura with soy sauce, grated daikon radish, and grated ginger."],
+        "rating": 4.3
+      },
+      {
+        "name": "Yakitori",
+        "ingredients": [
+          "Chicken thighs",
+          "Scallions",
+          "Soy sauce",
+          "Sake",
+          "Mirin",
+          "Sugar",
+          "Salt",
+          "Bamboo skewers"
+        ],
+        "cookingMethod": ["1. Cut chicken thighs into small pieces.\n2. Skewer the chicken and scallions on bamboo skewers.\n3. In a saucepan, mix soy sauce, sake, mirin, sugar, and salt.\n4. Bring the mixture to a boil and simmer until it thickens.\n5. Grill the skewered chicken over high heat until fully cooked.\n6. Brush the sauce on the chicken skewers while grilling.\n7. Serve hot with extra sauce on the side."],
+        "rating": 4.8
+      },
+      {
+        "name": "Gyoza",
+        "ingredients": [
+          "Ground pork",
+          "Cabbage",
+          "Garlic",
+          "Ginger",
+          "Green onion",
+          "Soy sauce",
+          "Sesame oil",
+          "Gyoza wrappers"
+        ],
+        "cookingMethod": "1. Mix the ground pork, cabbage, garlic, ginger, green onion, soy sauce, and sesame oil in a bowl. 2. Place a spoonful of the mixture onto a gyoza wrapper. 3. Wet the edges of the wrapper with water. 4. Fold the wrapper in half and pleat the edges together. 5. Heat the oil in a frying pan. 6. Add the gyoza and cook until the bottom is browned. 7. Add water to the pan and cover to steam the gyoza. 8. Cook until the water has evaporated. 9. Serve with soy sauce and/or vinegar.", 
+        "rating": 4.2
+      },
+      {
+          "name": "Chicken Teriyaki",
+          "ingredients": [
+            "1 lb chicken thighs, boneless and skinless",
+            "1/2 cup soy sauce",
+            "1/2 cup water",
+            "1/4 cup mirin",
+            "2 tbsp sugar",
+            "1 tbsp vegetable oil",
+            "1 clove garlic, minced",
+            "1 tsp ginger, minced"
+          ],
+          "cookingMethod": [
+            "In a bowl, mix soy sauce, water, mirin and sugar until sugar is dissolved.",
+            "Heat oil in a large skillet over medium heat. Add chicken and cook until browned, about 5 minutes per side.",
+            "Add garlic and ginger to the skillet and cook until fragrant, about 1 minute.",
+            "Pour the sauce over the chicken and bring to a boil. Reduce heat to low and simmer until sauce thickens and chicken is cooked through, about 10-15 minutes.",
+            "Serve hot with steamed rice and vegetables."
+          ],
+          "rating": 4.5
+        },
+        {
+          "name": "Tonkatsu",
+          "ingredients": [
+            "4 boneless pork chops",
+            "1/2 cup all-purpose flour",
+            "2 eggs, beaten",
+            "1 cup panko breadcrumbs",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "1/4 cup vegetable oil"
+          ],
+          "cookingMethod": [
+            "Preheat the oven to 375°F (190°C).",
+            "Season pork chops with salt and pepper.",
+            "Dredge each chop in flour, dip in beaten eggs, and coat in panko breadcrumbs.",
+            "Heat oil in a large skillet over medium-high heat. Add pork chops and cook until browned, about 2-3 minutes per side.",
+            "Transfer the pork chops to a baking sheet and bake for 15-20 minutes, until fully cooked.",
+            "Serve hot with tonkatsu sauce, shredded cabbage, and steamed rice."
+          ],
+          "rating": 4.3
+        },
+        {
+          "name": "Soba Noodle Salad",
+          "ingredients": [
+            "8 oz soba noodles",
+            "1/2 cup shredded carrots",
+            "1/2 cup sliced cucumber",
+            "1/2 cup sliced red bell pepper",
+            "1/2 cup sliced scallions",
+            "1/4 cup rice vinegar",
+            "2 tbsp soy sauce",
+            "1 tbsp sesame oil",
+            "1 tbsp honey",
+            "1 clove garlic, minced",
+            "1 tsp grated ginger",
+            "1 tbsp toasted sesame seeds"
+          ],
+          "cookingMethod": [
+            "Cook soba noodles according to package directions. Drain and rinse with cold water.",
+            "In a large bowl, mix together carrots, cucumber, red bell pepper, and scallions.",
+            "In a separate bowl, whisk together rice vinegar, soy sauce, sesame oil, honey, garlic, and ginger.",
+            "Toss soba noodles with the vegetables and dressing.",
+            "Garnish with toasted sesame seeds and serve chilled."
+          ],
+          "rating": 4.7
+        }
+    ]
   },
   {
     "id": 6,
@@ -213,7 +546,91 @@
     "years_of_experience": 8,
     "num_of_recipes": 5,
     "like": 5500,
-    "recipes": ["Matcha Mousse Cake", "Sakura Chiffon Cake", "Mochi Ice Cream", "Dorayaki", "Japanese Cheesecake"]
+    "recipes": [{
+        "name": "Tonkatsu",
+        "ingredients": [
+          "Pork loin",
+          "Egg",
+          "Panko breadcrumbs",
+          "Flour",
+          "Cabbage",
+          "Tonkatsu sauce",
+          "Oil"
+        ],
+        "cookingMethod": "First, pound the pork loin until it's about 1/2 inch thick. Next, coat it in flour, dip it in beaten egg, and cover it with panko breadcrumbs. Heat up some oil in a pan and fry the pork until golden brown. Serve with shredded cabbage and tonkatsu sauce.",
+        "rating": 4.5
+      },
+      {
+        "name": "Sukiyaki",
+        "ingredients": [
+          "Thinly sliced beef",
+          "Tofu",
+          "Shirataki noodles",
+          "Scallions",
+          "Napa cabbage",
+          "Enoki mushrooms",
+          "Shiitake mushrooms",
+          "Sake",
+          "Mirin",
+          "Soy sauce",
+          "Sugar"
+        ],
+        "cookingMethod": "Heat up a large pot or a cast-iron skillet. Add some oil and sauté sliced onions. Once they start to soften, add the thinly sliced beef and stir-fry until it's no longer pink. Pour in the sake, mirin, soy sauce, and sugar, and bring to a boil. Add the vegetables, tofu, and noodles, and let simmer until everything is cooked through. Serve hot.",
+        "rating": 4.2
+      },
+      {
+        "name": "Yakisoba",
+        "ingredients": [
+          "Yakisoba noodles",
+          "Pork belly",
+          "Carrots",
+          "Cabbage",
+          "Onion",
+          "Bean sprouts",
+          "Red bell pepper",
+          "Green onion",
+          "Worcestershire sauce",
+          "Ketchup",
+          "Oil"
+        ],
+        "cookingMethod": "Boil the noodles in a pot of boiling water for about 2-3 minutes until cooked. Drain and set aside. In a large pan or wok, heat up some oil and add the sliced pork belly. Once it starts to brown, add the sliced onion and cook until it's translucent. Add the sliced carrots, cabbage, and bell pepper, and stir-fry until everything is cooked through. Add the cooked noodles, Worcestershire sauce, and ketchup, and stir-fry until the sauce is evenly distributed. Serve hot and garnish with green onions.",
+        "rating": 4.0
+      },
+      {
+        "name": "Oden",
+        "ingredients": [
+          "Fish cake",
+          "Daikon",
+          "Boiled eggs",
+          "Kelp",
+          "Soy sauce",
+          "Mirin",
+          "Sugar"
+        ],
+        "cookingMethod": "Peel and cut the daikon into large chunks. In a pot, add the daikon, kelp, and enough water to cover the ingredients. Bring to a boil and let simmer until the daikon is cooked through. Add the fish cake and boiled eggs, and let simmer for a few more minutes. Add the soy sauce, mirin, and sugar, and let cook for a few more minutes until the flavors are infused. Serve hot.",
+        "rating": 4.3
+      },
+      {
+        "name": "Takoyaki",
+        "ingredients": [
+          "1 cup all-purpose flour",
+          "2 teaspoons baking powder",
+          "1/4 teaspoon salt",
+          "1/4 teaspoon sugar",
+          "1/2 cup dashi stock",
+          "1/4 cup water",
+          "2 eggs",
+          "2 green onions, thinly sliced",
+          "1/2 cup diced cooked octopus",
+          "1/4 cup beni shoga (pickled ginger), finely chopped",
+          "1/4 cup tenkasu (tempura scraps)",
+          "Vegetable oil, for brushing",
+          "Toppings: takoyaki sauce, mayonnaise, aonori (dried green seaweed), katsuobushi (dried bonito flakes)"
+        ],
+        "cookingMethod": "In a large bowl, whisk together the flour, baking powder, salt, and sugar. In a separate bowl, mix the dashi stock, water, and eggs together. Add the wet ingredients to the dry ingredients and whisk until well combined. Stir in the green onions, octopus, beni shoga, and tenkasu.\n\nPreheat a takoyaki pan over medium heat. Brush the cups with vegetable oil. Fill each cup with batter almost to the top. Using a skewer or chopsticks, quickly flip the pieces of octopus over so that they are evenly distributed in the cups. Cook until the bottom is golden brown, about 2-3 minutes. Use the skewer to flip the takoyaki balls over and cook until the other side is golden brown, about 1-2 minutes.\n\nServe the takoyaki immediately with takoyaki sauce, mayonnaise, aonori, and katsuobushi.",
+        "rating": 4.8
+      }
+]
   },
   {
     "id": 7,
@@ -221,9 +638,100 @@
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojhERgRKwJo4WJWL9yMN9tOOC99OoxBo52A&usqp=CAU",
     "bio": "Ryota Fujimoto is a young Japanese chef who specializes in sushi. With five years of experience, Ryota has perfected his skills in creating delicious sushi dishes that are both traditional and modern. He has created a loyal following of foodies who appreciate his creative and innovative approach to sushi-making.",
     "years_of_experience": 9,
-    "num_of_recipes": 6,
+    "num_of_recipes": 5,
     "like": 8000,
-    "recipes": ["Yakitori", "Takoyaki", "Gyoza", "Karaage", "Edamame", "Shishamo"]
+    "recipes": [{
+        "name": "Okonomiyaki",
+        "ingredients": [
+          "1/2 cup all-purpose flour",
+          "1/4 teaspoon salt",
+          "1/4 teaspoon baking powder",
+          "1/2 cup water",
+          "2 large eggs",
+          "1/2 head green cabbage, thinly sliced",
+          "3 scallions, thinly sliced",
+          "1/2 cup chopped cooked shrimp",
+          "1/2 cup shredded cooked pork",
+          "1/2 cup bean sprouts",
+          "1/4 cup mayonnaise",
+          "1/4 cup okonomiyaki sauce",
+          "1/4 cup bonito flakes",
+          "1/4 cup chopped fresh parsley"
+        ],
+        "cookingMethod": [
+          "In a large bowl, whisk together the flour, salt, and baking powder.",
+          "Add the water and eggs and whisk until smooth.",
+          "Fold in the cabbage, scallions, shrimp, pork, and bean sprouts.",
+          "Heat a large nonstick skillet over medium heat.",
+          "Pour in the batter to make 4 large pancakes.",
+          "Cook for 5-6 minutes on each side or until golden brown and cooked through.",
+          "Serve hot, drizzled with mayonnaise and okonomiyaki sauce and topped with bonito flakes and parsley."
+        ],
+        "rating": 4.8
+      },
+      {
+        "name": "Yakisoba",
+        "ingredients": [
+          "8 oz soba noodles",
+          "1/4 cup vegetable oil",
+          "1 large onion, sliced",
+          "1 red bell pepper, sliced",
+          "1 yellow bell pepper, sliced",
+          "2 cups sliced cabbage",
+          "2 cups sliced mushrooms",
+          "1 cup sliced carrots",
+          "1 cup chopped scallions",
+          "1/4 cup soy sauce",
+          "2 tablespoons oyster sauce",
+          "1 tablespoon sesame oil",
+          "1 teaspoon sugar"
+        ],
+        "cookingMethod": [
+          "Cook the soba noodles according to package instructions.",
+          "Heat the vegetable oil in a large skillet over high heat.",
+          "Add the onion, bell peppers, cabbage, mushrooms, and carrots.",
+          "Stir-fry for 5-7 minutes or until the vegetables are tender-crisp.",
+          "Add the scallions, soy sauce, oyster sauce, sesame oil, and sugar.",
+          "Stir-fry for another 2-3 minutes or until the sauce has thickened.",
+          "Add the cooked soba noodles and toss to combine.",
+          "Serve hot."
+        ],
+        "rating": 4.5
+      },
+      {
+        "name": "Miso Soup",
+        "ingredients": [
+          "4 cups water",
+          "1/4 cup miso paste",
+          "1/2 cup chopped scallions",
+          "1/2 cup cubed tofu",
+          "1/4 cup wakame seaweed",
+          "1 teaspoon soy sauce",
+          "1 teaspoon sesame oil",
+          "1 teaspoon rice vinegar"
+        ],
+        "cookingMethod": [
+          "Bring the water to a boil in a medium saucepan.",
+          "Whisk in the miso paste until smooth.",
+          "Add the scallions, tofu, and wakame seaweed.",
+          "Reduce the heat to low and simmer for 5-7 minutes.",
+          "Stir in the soy sauce, sesame oil, and rice vinegar.",
+          "Serve hot."
+        ],
+        "rating": 4.2
+      },
+      {
+        "name": "Tofu Teriyaki",
+        "ingredients": ["1 block of firm tofu", "1/4 cup soy sauce", "2 tbsp honey", "2 tbsp rice vinegar", "1 tbsp cornstarch", "1 clove garlic, minced", "1 tsp grated ginger", "2 green onions, sliced", "2 tbsp vegetable oil"],
+        "cookingMethod": ["Drain the tofu and cut it into small cubes.", "In a small bowl, whisk together the soy sauce, honey, rice vinegar, cornstarch, garlic, and ginger.", "In a large skillet, heat the vegetable oil over medium-high heat.", "Add the tofu and cook until golden brown, about 5-7 minutes.", "Add the sauce and stir until the tofu is coated and the sauce has thickened, about 1-2 minutes.", "Garnish with sliced green onions and serve with rice."],
+        "rating": 4.5
+      },
+      {
+        "name": "Okonomiyaki",
+        "ingredients": ["1 cup flour", "1/2 tsp baking powder", "1/2 tsp salt", "2/3 cup water", "4 cups chopped cabbage", "1/2 cup chopped green onions", "1/4 cup chopped pickled ginger", "1/4 cup bonito flakes", "1/4 cup mayonnaise", "1/4 cup okonomiyaki sauce", "2 tbsp vegetable oil", "4 eggs"],
+        "cookingMethod": ["In a large bowl, whisk together the flour, baking powder, salt, and water.", "Add the cabbage, green onions, pickled ginger, bonito flakes, mayonnaise, and okonomiyaki sauce to the bowl and mix until combined.", "Heat the vegetable oil in a large skillet over medium-high heat.", "Add the batter to the skillet and spread it out into a thin, even layer.", "Crack an egg on top of the batter and cook until the bottom is golden brown, about 5-7 minutes.", "Flip the okonomiyaki over and cook for another 5-7 minutes, until the egg is cooked through.", "Repeat with the remaining batter and eggs.", "Garnish with additional bonito flakes and green onions, if desired, and serve with extra okonomiyaki sauce."],
+        "rating": 4.8
+      }]
   },
   {
     "id": 8,
@@ -233,7 +741,59 @@
     "years_of_experience": 11,
     "num_of_recipes": 4,
     "like": 2000,
-    "recipes": ["Chirashi Sushi", "Katsu Curry", "Nikujaga", "Oyakodon"]
+    "recipes": [{    "name": "Sushi Rolls",    "ingredients": [      "Sushi rice",      "Nori sheets",      "Sashimi-grade fish (tuna, salmon, etc.)",      "Vegetables (cucumber, avocado, carrot, etc.)",      "Soy sauce",      "Wasabi",      "Pickled ginger"    ],
+    "cookingMethod": "1. Cook the sushi rice and let it cool. 2. Place a nori sheet on a sushi mat. 3. Spread a layer of rice over the nori, leaving a 1-inch border at the top. 4. Add the filling (fish and/or vegetables) to the center of the rice. 5. Roll the sushi tightly using the sushi mat. 6. Cut the sushi roll into bite-size pieces. 7. Serve with soy sauce, wasabi, and pickled ginger.",
+    "rating": 4.5
+  },
+  {
+    "name": "Tempura",
+    "ingredients": [
+      "Shrimp or vegetables (sweet potato, broccoli, onion, etc.)",
+      "Flour",
+      "Cornstarch",
+      "Egg",
+      "Cold water",
+      "Ice cubes",
+      "Soy sauce",
+      "Daikon radish",
+      "Grated ginger"
+    ],
+    "cookingMethod": "1. Make the batter by mixing flour, cornstarch, egg, cold water, and ice cubes. 2. Heat the oil in a deep frying pan. 3. Dip the shrimp or vegetables into the batter. 4. Fry the tempura in the hot oil until golden brown. 5. Serve with soy sauce, grated daikon radish, and grated ginger.",
+    "rating": 4.3
+  },
+  {
+    "name": "Miso Soup",
+    "ingredients": [
+      "Dashi stock",
+      "Miso paste",
+      "Tofu",
+      "Scallions",
+      "Seaweed"
+    ],
+    "cookingMethod": "1. Heat the dashi stock in a pot. 2. Add miso paste and stir until it dissolves. 3. Add tofu and seaweed. 4. Cook for a few minutes until the tofu is heated through. 5. Garnish with sliced scallions. 6. Serve hot.",
+    "rating": 4.8
+  },
+    {
+      "name": "Tonkatsu",
+      "ingredients": [
+        "4 boneless pork chops",
+        "1/2 cup all-purpose flour",
+        "2 eggs, beaten",
+        "1 cup panko breadcrumbs",
+        "1/2 tsp salt",
+        "1/4 tsp black pepper",
+        "1/4 cup vegetable oil"
+      ],
+      "cookingMethod": [
+        "Preheat the oven to 375°F (190°C).",
+        "Season pork chops with salt and pepper.",
+        "Dredge each chop in flour, dip in beaten eggs, and coat in panko breadcrumbs.",
+        "Heat oil in a large skillet over medium-high heat. Add pork chops and cook until browned, about 2-3 minutes per side.",
+        "Transfer the pork chops to a baking sheet and bake for 15-20 minutes, until fully cooked.",
+        "Serve hot with tonkatsu sauce, shredded cabbage, and steamed rice."
+      ],
+      "rating": 4.3
+    }]
   },
   {
     "id": 9,
@@ -241,8 +801,75 @@
     "picture": "https://media.timeout.com/images/105977061/image.jpg",
     "bio": "Toshiro Nakamura is a master of washoku cuisine, boasting 15 years of experience in the culinary world. He has won multiple awards for his dishes, which focus on creating harmonious and balanced flavors. With seven popular recipes to his name, including Saba Misoni and Tsukemono, Toshiro has become a respected figure in the culinary community. His bio highlights his passion for creating delicious and thoughtful dishes that showcase the best of Japanese cuisine.",
     "years_of_experience": 15,
-    "num_of_recipes": 7,
+    "num_of_recipes": 5,
     "like": 7000,
-    "recipes": ["Saba Misoni", "Yakizakana", "Nimono", "Chawanmushi", "Tsukemono", "Oden", "Tonjiru"]
+    "recipes": [{    "name": "Sushi Rolls",    "ingredients": [      "Sushi rice",      "Nori sheets",      "Sashimi-grade fish (tuna, salmon, etc.)",      "Vegetables (cucumber, avocado, carrot, etc.)",      "Soy sauce",      "Wasabi",      "Pickled ginger"    ],
+    "cookingMethod": "1. Cook the sushi rice and let it cool. 2. Place a nori sheet on a sushi mat. 3. Spread a layer of rice over the nori, leaving a 1-inch border at the top. 4. Add the filling (fish and/or vegetables) to the center of the rice. 5. Roll the sushi tightly using the sushi mat. 6. Cut the sushi roll into bite-size pieces. 7. Serve with soy sauce, wasabi, and pickled ginger.",
+    "rating": 4.5
+  },
+  {
+    "name": "Tempura",
+    "ingredients": [
+      "Shrimp or vegetables (sweet potato, broccoli, onion, etc.)",
+      "Flour",
+      "Cornstarch",
+      "Egg",
+      "Cold water",
+      "Ice cubes",
+      "Soy sauce",
+      "Daikon radish",
+      "Grated ginger"
+    ],
+    "cookingMethod": "1. Make the batter by mixing flour, cornstarch, egg, cold water, and ice cubes. 2. Heat the oil in a deep frying pan. 3. Dip the shrimp or vegetables into the batter. 4. Fry the tempura in the hot oil until golden brown. 5. Serve with soy sauce, grated daikon radish, and grated ginger.",
+    "rating": 4.3
+  },
+  {
+    "name": "Miso Soup",
+    "ingredients": [
+      "Dashi stock",
+      "Miso paste",
+      "Tofu",
+      "Scallions",
+      "Seaweed"
+    ],
+    "cookingMethod": "1. Heat the dashi stock in a pot. 2. Add miso paste and stir until it dissolves. 3. Add tofu and seaweed. 4. Cook for a few minutes until the tofu is heated through. 5. Garnish with sliced scallions. 6. Serve hot.",
+    "rating": 4.8
+  },
+  {
+    "name": "Gyoza",
+    "ingredients": [
+      "Ground pork",
+      "Cabbage",
+      "Garlic",
+      "Ginger",
+      "Green onion",
+      "Soy sauce",
+      "Sesame oil",
+      "Gyoza wrappers"
+    ],
+    "cookingMethod": "1. Mix the ground pork, cabbage, garlic, ginger, green onion, soy sauce, and sesame oil in a bowl. 2. Place a spoonful of the mixture onto a gyoza wrapper. 3. Wet the edges of the wrapper with water. 4. Fold the wrapper in half and pleat the edges together. 5. Heat the oil in a frying pan. 6. Add the gyoza and cook until the bottom is browned. 7. Add water to the pan and cover to steam the gyoza. 8. Cook until the water has evaporated. 9. Serve with soy sauce and/or vinegar.", 
+    "rating": 4.2
+  },
+    {
+      "name": "Tonkatsu",
+      "ingredients": [
+        "4 boneless pork chops",
+        "1/2 cup all-purpose flour",
+        "2 eggs, beaten",
+        "1 cup panko breadcrumbs",
+        "1/2 tsp salt",
+        "1/4 tsp black pepper",
+        "1/4 cup vegetable oil"
+      ],
+      "cookingMethod": [
+        "Preheat the oven to 375°F (190°C).",
+        "Season pork chops with salt and pepper.",
+        "Dredge each chop in flour, dip in beaten eggs, and coat in panko breadcrumbs.",
+        "Heat oil in a large skillet over medium-high heat. Add pork chops and cook until browned, about 2-3 minutes per side.",
+        "Transfer the pork chops to a baking sheet and bake for 15-20 minutes, until fully cooked.",
+        "Serve hot with tonkatsu sauce, shredded cabbage, and steamed rice."
+      ],
+      "rating": 4.3
+    }]
   }
 ]
