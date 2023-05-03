@@ -1,0 +1,33 @@
+[
+    {
+      "review_description": "I tried a new recipe tonight and it turned out amazing! The flavors were perfectly balanced and the dish was cooked to perfection. I can't wait to make it again.",
+      "people_name": "Sarah Johnson",
+      "people_job": "Food Blogger",
+      "rating": 4.5
+    },
+    {
+      "review_description": "I'm not much of a cook, but I tried a simple recipe from a cookbook and it turned out great! The instructions were clear and easy to follow, and the end result was delicious.",
+      "people_name": "Mark Garcia",
+      "people_job": "Graphic Designer",
+      "rating": 4
+    },
+    {
+      "review_description": "I love experimenting in the kitchen, and I tried a new recipe that blew me away. The combination of flavors was unexpected but worked so well together. I can't wait to try more recipes from this cookbook.",
+      "people_name": "Katie Lee",
+      "people_job": "Chef",
+      "rating": 4.8
+    },
+    {
+      "review_description": "Cooking has always been a passion of mine, and I tried a new technique that I learned from a cooking show. It was a bit tricky at first, but once I got the hang of it, the result was incredible. I can't wait to try more techniques and elevate my cooking even further.",
+      "people_name": "Jason Chen",
+      "people_job": "Software Developer",
+      "rating": 4.7
+    },
+    {
+      "review_description": "I don't cook often, but I tried a simple recipe and it turned out surprisingly well. It was easy to follow and didn't require too many ingredients. I might start cooking more often!",
+      "people_name": "Alexandra Kim",
+      "people_job": "Student",
+      "rating": 4.2
+    }
+  ]
+  

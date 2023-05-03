@@ -1,5 +1,6 @@
 const express = require("express");
 const chefs = require("./chefs.json");
+const reviews = require("./review.json");
 const cors = require("cors");
 const app = express();
 const port = 5000;
@@ -19,6 +20,10 @@ app.get("/chefs/:id", (req, res) => {
   console.log(typeof id);
   const chef = chefs.find((chef) => chef.id === parseInt(id));
   res.send(chef);
+});
+
+app.get("/reviews", (req, res) => {
+  res.send(reviews);
 });
 
 app.listen(port, () => {
